@@ -12,6 +12,8 @@
                              <li>Support</li>
                              <li>Unlimited space</li>
                          </ul>
+                         <!-- === Snippets' area === -->
+                         <div class="oe_structure" />
                      </div>
                  </div>
              </t>
