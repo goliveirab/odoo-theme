@@ -5,10 +5,14 @@
   'author':'goliveirab',
 
   'data': [
+      'views/assets.xml',
       'views/layout.xml',
       'views/pages.xml',
   ],
   'category': 'Theme/Creative',
-  'depends': ['website'],
+  'depends': [
+      'website',
+      'website_less',
+  ],
   'application': True,
 }
