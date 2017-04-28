@@ -5,6 +5,7 @@
   'author':'goliveirab',
 
   'data': [
+      'views/layout.xml',
   ],
   'category': 'Theme/Creative',
   'depends': ['website'],
